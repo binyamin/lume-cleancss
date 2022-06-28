@@ -1,4 +1,4 @@
-import { path, type Site, CleanCSS } from './deps.ts';
+import { CleanCSS, path, type Site } from './deps.ts';
 
 interface Options {
 	/**
