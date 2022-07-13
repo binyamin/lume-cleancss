@@ -15,6 +15,12 @@ and this project tries to adhere to
 	**Security** in case of vulnerabilities.
 -->
 
+## 0.2.0 - 2022-07-13
+
+### Added
+
+- Process existing source-map
+
 ## 0.1.0 - 2022-06-27
 
 ### Added
