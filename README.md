@@ -12,7 +12,7 @@ Minify CSS with structural optimization.
 Import the module from https://deno.land.
 
 ```js
-import cleancss from 'https://deno.land/x/lume_cleancss@v0.1.0/mod.ts';
+import cleancss from 'https://deno.land/x/lume_cleancss@v0.2.0/mod.ts';
 ```
 
 ## Contributing
