@@ -15,6 +15,18 @@ and this project tries to adhere to
 	**Security** in case of vulnerabilities.
 -->
 
+## 0.2.1 - 2022-10-11
+
+### Fixed
+
+- Fixed type-error by updating Lume
+
+### Changed
+
+- Update deps
+  - lume@1.12.0
+  - std@0.159.0
+
 ## 0.2.0 - 2022-07-13
 
 ### Added
