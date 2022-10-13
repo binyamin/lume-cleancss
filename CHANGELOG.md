@@ -19,8 +19,7 @@ and this project tries to adhere to
 
 ### Fixed
 
-- Argument of type '(site: Site) => void' is not assignable to parameter of type
-  'Plugin'.
+- Fixed type-error by updating Lume
 
 ### Changed
 
