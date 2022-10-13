@@ -15,7 +15,7 @@ and this project tries to adhere to
 	**Security** in case of vulnerabilities.
 -->
 
-## 0.2.1 - 2022-10-11
+## 0.2.1 - 2022-10-13
 
 ### Fixed
 
